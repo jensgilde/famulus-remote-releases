@@ -6,6 +6,7 @@
       "name": "Famulus Remote",
       "bundleIdentifier": "one.gilde.famulus-swift-fernbedienung",
       "developerName": "Jens Gilde",
+      "iconURL": "https://raw.githubusercontent.com/jensgilde/famulus-remote-releases/main/icon.png",
       "subtitle": "Fernbedienung fuer Famulus (Mac)",
       "localizedDescription": "Fernbedienung fuer den Famulus-Agenten auf dem Mac - eigener, selbst gebauter Build, kein App-Store-Produkt.",
       "version": "1.1.0",
