@@ -9,7 +9,7 @@
       "iconURL": "https://raw.githubusercontent.com/jensgilde/famulus-remote-releases/main/icon.png",
       "subtitle": "Fernbedienung fuer Famulus (Mac)",
       "localizedDescription": "Fernbedienung fuer den Famulus-Agenten auf dem Mac - eigener, selbst gebauter Build, kein App-Store-Produkt.",
-      "version": "1.1.0",
+      "version": "1.1.0-242",
       "versionDate": "2026-09-23T14:58:27Z",
       "versionDescription": "Build 242 - Provider opencode/opencode-go entfernt (unzuverlaessiger Proxy, Timeouts bei identischem Modell ueber hyper vermieden).",
       "downloadURL": "https://github.com/jensgilde/famulus-remote-releases/releases/download/v1.1.0-build242/Famulus.Remote.ipa",
