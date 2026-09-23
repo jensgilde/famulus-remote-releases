@@ -1,0 +1,18 @@
+{
+  "name": "Famulus (Jens)",
+  "identifier": "one.gilde.famulus-source",
+  "apps": [
+    {
+      "name": "Famulus Remote",
+      "bundleIdentifier": "one.gilde.famulus-swift-fernbedienung",
+      "developerName": "Jens Gilde",
+      "subtitle": "Fernbedienung fuer Famulus (Mac)",
+      "localizedDescription": "Fernbedienung fuer den Famulus-Agenten auf dem Mac - eigener, selbst gebauter Build, kein App-Store-Produkt.",
+      "version": "1.1.0",
+      "versionDate": "2026-09-23T14:33:27Z",
+      "versionDescription": "Build 241 - kompletter Re-Audit-Durchgang (Tool-Sichtbarkeit, Remote-Fixes, Gedaechtnis-Erweiterung).",
+      "downloadURL": "https://github.com/jensgilde/famulus-remote-releases/releases/download/v1.1.0-build241/Famulus.Remote.ipa",
+      "size": 828236
+    }
+  ]
+}
